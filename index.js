@@ -285,3 +285,20 @@ get_balance();
 // }
 
 // Here, the state should say complete.
+
+// ----- CCTP -----
+// ----- Step 1 -----
+// Approve TokenMessenger Contract
+// approve_usdc();
+
+// ----- Step 2 -----
+// Burn USDC
+// burn_usdc();
+
+// ----- Step 3 -----
+// Get Attestation
+// get_attestation();
+
+// ----- Step 4 -----
+// Mint USDC
+// mint_usdc();

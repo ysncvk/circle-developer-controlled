@@ -1,5 +1,5 @@
 {
-  "name": "circle-developer-controlled",
+  "name": "developer-controlled-wallets",
   "version": "1.0.0",
   "description": "Circle Developer Controlled Wallets",
   "main": "index.js",
@@ -13,6 +13,9 @@
     "@circle-fin/developer-controlled-wallets": "^1.2.0",
     "crypto": "^1.0.1",
     "dotenv": "^16.4.1",
-    "node-forge": "^1.3.1"
+    "node-fetch": "^2.6.6",
+    "node-forge": "^1.3.1",
+    "uuid": "^9.0.1",
+    "web3": "^4.5.0"
   }
 }
